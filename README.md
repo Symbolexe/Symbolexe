@@ -4,6 +4,13 @@ Hi 👋 My name is Yasin
 Purple Team Manager
 -------------------
 
+<h1 align="center">
+  <br>
+
+  ![Banner of Me](https://github.com/Symbolexe/Symbolexe/assets/140549630/cfe64351-f475-4c65-946b-6ae368ff3902)
+  
+</h1>
+
 I'm a Purple Team Manager with 8/yr Knowledge about Cybersecurity. For some reason, I entered the field of computer since I was 7 years old, I first started with programming, then I moved to security and safe coding and penetration testing, and to be precise, I entered the purple team professionally for about 8 years. In recent years, I tried to share my knowledge with others, so I have a 3-year teaching experience.
 
 *   🌍  I'm based in Iran 🇮🇷
