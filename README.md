@@ -3,9 +3,7 @@ Hi 👋 My name is Yasin
 
 Purple Team Manager
 -------------------
-
 <h1 align="center">
-  <br>
 
   ![Banner of Me](https://github.com/Symbolexe/Symbolexe/assets/140549630/cfe64351-f475-4c65-946b-6ae368ff3902)
   
